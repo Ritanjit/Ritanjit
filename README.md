@@ -1,6 +1,6 @@
 ![MasterHead](https://openseauserdata.com/files/84dada0a5dcfd790700df3dd87897aef.gif)
 <h1 align="center">Hi 👋, I'm Ritanjit Das</h1>
-<h3 align="center">Just a Web Dev obsessed with designing UI UX</h3>
+<h3 align="center">Just a web dev obsessed with designing your experience in interfaces</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Ritanjit/Ritanjit/blob/c178a7673c499651709c9a58a816273abc4f5594/img.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritanjit&label=Profile%20views&color=0e75b6&style=flat" alt="ritanjit" /> </p>
