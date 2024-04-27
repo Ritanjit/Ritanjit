@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rtnjt_09" target="blank"><img src="https://img.shields.io/twitter/follow/rtnjt_09?logo=twitter&style=for-the-badge" alt="rtnjt_09" /></a> </p>
 
-- 🌱 I’m currently learning **CS50x**
+- 🌱 I’m currently busy with **#100DaysofCodeChallenge**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ritanjit-das-530b7b216](https://www.linkedin.com/in/ritanjit-das-530b7b216)
 
