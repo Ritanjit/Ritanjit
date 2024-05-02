@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rtnjt_09" target="blank"><img src="https://img.shields.io/twitter/follow/rtnjt_09?logo=twitter&style=for-the-badge" alt="rtnjt_09" /></a> </p>
 
-- 🌱 I’m currently busy with **#100DaysofCodeChallenge**
+- 🌱 I’m currently busy with **#100DaysofCodeChallenge** | 
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ritanjit-das-530b7b216](https://www.linkedin.com/in/ritanjit-das-530b7b216)
 
@@ -27,8 +27,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritanjit&show_icons=true&locale=en&layout=compact" alt="ritanjit" /></p>-->
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@rtnjt09/30-nites-of-code) 
+## #30NitesOfCode: [(Check out my progress!)](https://www.codedex.io/@rtnjt09/30-nites-of-code) 
   ![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09)
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritanjit&show_icons=true&locale=en" alt="ritanjit" /></p>-->
