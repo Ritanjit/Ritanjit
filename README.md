@@ -28,8 +28,8 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritanjit&show_icons=true&locale=en&layout=compact" alt="ritanjit" /></p>-->
 
 ## #30NitesOfCode: [(Check out my progress!)](https://www.codedex.io/@rtnjt09/30-nites-of-code) 
-  ![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09)
+  ![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09) <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ritanjit&" alt="ritanjit" />
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritanjit&show_icons=true&locale=en" alt="ritanjit" /></p>-->
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ritanjit&" alt="ritanjit" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritanjit&" alt="ritanjit" /></p> -->
