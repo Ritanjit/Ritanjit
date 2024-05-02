@@ -29,8 +29,7 @@
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@rtnjt09/30-nites-of-code) 
-  <img align="center" alt="Coding" width="400" ![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09) >
-  <!--  ![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09) -->
+  ![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09)
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritanjit&show_icons=true&locale=en" alt="ritanjit" /></p>-->
 
