@@ -19,8 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/rtnjt_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rtnjt_09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritanjit das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritanjit das" height="30" width="40" /></a>
-<a href="https://medium.com/@ritanjit das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ritanjit das" height="30" width="40" /></a>
-<a href="https://behance.com/@ritanjit das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="@ritanjit das" height="30" width="40" /></a>
+<a href="https://www.behance.net/ritanjitdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ritanjit das" height="30" width="40" /></a>
 </p>
 
 <!--<h3 align="left">Languages and Tools:</h3>
