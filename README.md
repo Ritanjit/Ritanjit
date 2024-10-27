@@ -33,4 +33,4 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritanjit&show_icons=true&locale=en" alt="ritanjit" /></p>-->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritanjit&" alt="ritanjit" /></p> -->
-<img src="https://raw.githubusercontent.com/Ritanjit/Ritanjit/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nipudas29/nipudas29/output/snake.svg" alt="Snake animation" />
