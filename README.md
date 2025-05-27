@@ -44,15 +44,21 @@
   ![snake gif](https://github.com/Ritanjit/Ritanjit/blob/output/github-snake-dark.svg)
 </div>
 
+
 <!-- line and space -->
 <h1></h1></br></br>
+
+
+
+<!-- Footer -->
+<div align="center">
+
+![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09) <br/>
 
 <!-- profile views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritanjit&label=Profile%20views&color=0e75b6&style=flat" alt="ritanjit" /> </p>
 
-<!-- Social connections -->
-<div align="center">
- 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/ritanjitdas) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6ME9TDt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritanjit-das-530b7b216/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rtnjt_designs)
+<!-- social links --> 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/ritanjitdas) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/865274630624116737) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritanjit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritanjit-das-530b7b216/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rtnjt_designs)
 
 </div>
