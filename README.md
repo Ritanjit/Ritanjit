@@ -57,9 +57,10 @@
 <!-- aniimated line with space -->
 <br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Hello Gif Hand Shake
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
--->
+<!-- Sub Heading === Open Poke Ball -->
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=6000&pause=5000&color=0BF7FF&center=false&vCenter=true&width=1000&height=30&lines=Look+What+I+Caught!!" alt="Typing SVG" /></a><br/>
+</div>
 
 <!-- Poke Ball -->
 <div align="center">
@@ -73,7 +74,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Unlocked Abilities : </h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -93,8 +94,6 @@
 
 <!-- Footer -->
 <div align="center">
-
-![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09) <br/>
 
 <!-- profile views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritanjit&label=Profile%20views&color=0e75b6&style=flat" alt="ritanjit" /></p>
