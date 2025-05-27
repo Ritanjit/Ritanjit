@@ -20,12 +20,13 @@
 <!-- -->
 
 <!-- most used languages -->
-</br></br><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritanjit&theme=radical&hide_border=true" width="58%" /></br></br>
+</br></br><img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="43%" />
 
 
 <!-- Stats -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ritanjit&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
-<img aling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="43%" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritanjit&theme=radical&hide_border=true" width="58%" /></br></br>
+
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
