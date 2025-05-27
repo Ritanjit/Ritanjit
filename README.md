@@ -15,12 +15,14 @@
 </div>
 
 <!-- coding image gif -->
+<div>
 <img align="right" alt="Coding" width="400" src="https://github.com/Ritanjit/Ritanjit/blob/c178a7673c499651709c9a58a816273abc4f5594/img.gif">
+</div>
 
 <!-- -->
 
 <!-- most used languages -->
-<br/><img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%" /><br/>
+<br/><img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" /><br/>
 
 <!-- line -->
 <h1></h1>
