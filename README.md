@@ -82,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,express,figma,github,html,java,js,ts,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,express,figma,github,html,java,js,ts,linux,mongodb,mysql,arduino,anaconda,bash,bootstrap,c,django,flask,linux,opencv,sklearn,ubuntu,nextjs,nodejs,postman,py,react,tailwind,vscode&perline=11" />
   </a>
 </p>
 
