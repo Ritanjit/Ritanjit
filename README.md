@@ -29,8 +29,8 @@
 
 <!-- Stats -->
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ritanjit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=My+GitHub+Stats" width="46%" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritanjit&theme=radical&hide_border=true" width="50%" /></br></br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ritanjit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=My+GitHub+Stats" width="45%" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritanjit&theme=radical&hide_border=true" width="49%" /></br></br>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
