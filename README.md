@@ -59,7 +59,7 @@
 
 <!-- Sub Heading === Open Poke Ball -->
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=6000&pause=5000&color=0BF7FF&center=false&vCenter=true&width=1000&height=30&lines=Look+What+I+Caught!!" alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=2000&color=0BF7FF&center=false&vCenter=true&width=1000&height=30&lines=Look+What+I+Caught!!" alt="Typing SVG" /></a><br/>
 </div>
 
 <!-- Poke Ball -->
@@ -74,7 +74,9 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Unlocked Abilities : </h2></summary>
+    <summary>
+        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;&nbsp;<h1 style="display: inline-block">$${\color{#0190b5} Skills:}$$</h1><br>
+    </summary>
   </ul>
 </div>
 <!--tech stack icons-->
