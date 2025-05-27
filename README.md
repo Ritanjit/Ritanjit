@@ -22,7 +22,7 @@
 <!-- -->
 
 <!-- most used languages -->
-<br/><img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" /><br/>
+<br/><br/><br/><img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" /><br/>
 
 <!-- line -->
 <h1></h1>
@@ -33,7 +33,7 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritanjit&theme=radical&hide_border=true" width="50%" /></br></br>
 </div>
 
-<br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <!-- line -->
 <h1></h1>
