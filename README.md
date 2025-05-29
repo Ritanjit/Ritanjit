@@ -68,8 +68,11 @@
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details alt="open pokeball">
+    <summary>Open Pokeball</summary>
 
-![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09) <br/>
+<!-- ![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09) -->
+
+<br/> <a href="https://imgbox.com/X3mReAvV" target="_blank"><img src="https://images2.imgbox.com/13/87/X3mReAvV_o.gif" alt="image host"/></a>
     
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -97,6 +100,9 @@
 <!-- Footer -->
 <div align="center">
 
+<!-- goku animations (gallery url "https://imgbox.com/gallery/edit/w4uRU9wgqp/Nh2lVOZiZ6VbM1Fz"-->
+<a href="https://imgbox.com/oAtQQK6D" target="_blank"><img src="https://images2.imgbox.com/21/86/oAtQQK6D_o.gif" alt="image host"/></a> <a href="https://imgbox.com/QntQmQCH" target="_blank"><img src="https://images2.imgbox.com/68/c2/QntQmQCH_o.gif" alt="image host"/></a> <a href="https://imgbox.com/jjIcAUQu" target="_blank"><img src="https://images2.imgbox.com/9b/36/jjIcAUQu_o.gif" alt="image host"/></a>
+
 <!-- profile views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritanjit&label=Profile%20views&color=0e75b6&style=flat" alt="ritanjit" /></p>
 
@@ -108,7 +114,9 @@
 <!-- aniimated line with space -->
 <br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <!-- SKILLS
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> <b> hi<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=6000&pause=5000&color=0BF7FF&center=false&vCenter=true&width=1000&height=20&lines=Skills" alt="Typing SVG" /></a>
 -->
+
+<!-- pokemon gifs -->
+<!-- <a href="https://imgbox.com/qzyC6w48" target="_blank"><img src="https://images2.imgbox.com/24/de/qzyC6w48_o.gif" alt="image host"/></a> <a href="https://imgbox.com/BzXapuKv" target="_blank"><img src="https://images2.imgbox.com/d7/a4/BzXapuKv_o.gif" alt="image host"/></a> <a href="https://imgbox.com/X3mReAvV" target="_blank"><img src="https://images2.imgbox.com/13/87/X3mReAvV_o.gif" alt="image host"/></a><a href="https://imgbox.com/bcRs6Xwm" target="_blank"><img src="https://images2.imgbox.com/12/78/bcRs6Xwm_o.gif" alt="image host"/></a> <a href="https://imgbox.com/wckHJZIA" target="_blank"><img src="https://images2.imgbox.com/5f/21/wckHJZIA_o.gif" alt="image host"/></a> -->
