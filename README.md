@@ -1,3 +1,5 @@
+
+<!-- Top Banner -->
 ![MasterHead](https://openseauserdata.com/files/84dada0a5dcfd790700df3dd87897aef.gif)
 
 </br>
@@ -78,16 +80,17 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;&nbsp;<h1 style="display: inline-block">$${\color{#0190b5} Skills }$$</h1>&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><br>
+        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;&nbsp;<h1 style="display: inline-block">$${\color{#0190b5} Stats }$$</h1>&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><br>
     </summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,express,figma,github,html,java,js,ts,linux,mongodb,mysql,arduino,anaconda,bash,bootstrap,c,django,flask,linux,opencv,sklearn,ubuntu,nextjs,nodejs,postman,py,react,tailwind,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,ts,mongodb,mysql,nodejs,html,css,express,react,nextjs,angular,tailwind,flask,django,c,cpp,py,java,php,rust,googlecloud,sklearn,opencv,tensorflow,pytorch,git,vite,yarn,postman,materialui,figma,bash,arduino,anaconda,linux,ubuntu&perline=11" />
   </a>
 </p>
+
 
 </details>
 
@@ -114,9 +117,9 @@
 <!-- aniimated line with space -->
 <br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- SKILLS
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> <b> hi<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=6000&pause=5000&color=0BF7FF&center=false&vCenter=true&width=1000&height=20&lines=Skills" alt="Typing SVG" /></a>
--->
-
 <!-- pokemon gifs -->
 <!-- <a href="https://imgbox.com/qzyC6w48" target="_blank"><img src="https://images2.imgbox.com/24/de/qzyC6w48_o.gif" alt="image host"/></a> <a href="https://imgbox.com/BzXapuKv" target="_blank"><img src="https://images2.imgbox.com/d7/a4/BzXapuKv_o.gif" alt="image host"/></a> <a href="https://imgbox.com/X3mReAvV" target="_blank"><img src="https://images2.imgbox.com/13/87/X3mReAvV_o.gif" alt="image host"/></a><a href="https://imgbox.com/bcRs6Xwm" target="_blank"><img src="https://images2.imgbox.com/12/78/bcRs6Xwm_o.gif" alt="image host"/></a> <a href="https://imgbox.com/wckHJZIA" target="_blank"><img src="https://images2.imgbox.com/5f/21/wckHJZIA_o.gif" alt="image host"/></a> -->
+
+<!-- table design skills -->
+<!-- <details> <summary><strong>🧑‍💻 Programming Languages</strong></summary> <table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"><br>C++</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"><br>C</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"><br>Java</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"><br>JavaScript</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"><br>TypeScript</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"><br>Python</td> </tr> </table> </details> <details> <summary><strong>⚙️ Frameworks & Libraries</strong></summary> <table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"><br>Express.js</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"><br>React</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"><br>Next.js</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"><br>Tailwind CSS</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"><br>Bootstrap</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40"><br>Flask</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="40" height="40"><br>Django</td> </tr> </table> </details> <details> <summary><strong>💻 Operating Systems</strong></summary> <table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"><br>Linux</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40"><br>Ubuntu</td> </tr> </table> </details> <details> <summary><strong>🧰 Platforms & Tools</strong></summary> <table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"><br>Git</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"><br>GitHub</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"><br>Postman</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"><br>VS Code</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"><br>Figma</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40"><br>Bash</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40"><br>Anaconda</td> </tr> </table> </details> <details> <summary><strong>🌐 Web Development</strong></summary> <table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"><br>HTML</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"><br>CSS</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"><br>Node.js</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"><br>MySQL</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"><br>MongoDB</td> </tr> </table> </details> <details> <summary><strong>🤖 Machine Learning & Embedded</strong></summary> <table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40"><br>Scikit-Learn</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40"><br>OpenCV</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"><br>Arduino</td> </tr> </table> </details> -->
+
