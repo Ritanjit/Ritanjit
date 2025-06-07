@@ -106,6 +106,9 @@
 <!-- goku animations (gallery url "https://imgbox.com/gallery/edit/w4uRU9wgqp/Nh2lVOZiZ6VbM1Fz"-->
 <img src="https://images2.imgbox.com/21/86/oAtQQK6D_o.gif" alt="image host" width="200"/><img src="https://images2.imgbox.com/68/c2/QntQmQCH_o.gif" alt="image host" width="200"/><img src="https://images2.imgbox.com/9b/36/jjIcAUQu_o.gif" alt="image host" width="200"/>
 
+<!-- Whole Profile Overview Image -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritanjit&theme=radical)
+
 <!-- profile views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritanjit&label=Profile%20views&color=0e75b6&style=flat" alt="ritanjit" /></p>
 
