@@ -70,7 +70,7 @@
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details alt="open pokeball">
-    <summary>Open Pokeball</summary>
+    <summary><h3>Open Pokeball</h3></summary>
 
 <!-- ![@rtnjt09 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rtnjt09) -->
 
