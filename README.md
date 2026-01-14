@@ -16,15 +16,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=6000&pause=5000&color=0BF7FF&center=true&vCenter=true&width=1000&height=20&lines=Just+an+AI+obsessed+with+human+interaction+design." alt="Typing SVG" /></a>
 </div>
 
-<!-- coding image gif -->
+<!-- coding image gif 
 <div>
 <img align="right" alt="Coding" width="400" src="https://github.com/Ritanjit/Ritanjit/blob/c178a7673c499651709c9a58a816273abc4f5594/img.gif">
 </div>
+-->
 
 <!-- -->
 
-<!-- most used languages -->
+<!-- most used languages 
 <br/><br/><br/><img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" /><br/>
+-->
 
 <!-- line -->
 <!-- <h1></h1> -->
@@ -32,19 +34,21 @@
 <!-- aniimated line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!-- Stats -->
+<!-- Stats 
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ritanjit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=My+GitHub+Stats" width="45%" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritanjit&theme=radical&hide_border=true" width="49%" /></br></br>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
+-->
 
 <!-- line -->
 <!-- <h1></h1> -->
 
-<!-- aniimated line -->
+<!-- aniimated line 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+-->
 
 <!-- Snake Animation -->
 <div align="center">
