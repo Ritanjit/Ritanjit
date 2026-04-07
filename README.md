@@ -37,7 +37,8 @@
 
 <div align="center">
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ritanjit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=My+GitHub+Stats" width="45%" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritanjit&theme=radical&hide_border=true" width="49%" />
+<img align="left" alt="Coding" width="265" src="https://github.com/Ritanjit/Ritanjit/blob/c178a7673c499651709c9a58a816273abc4f5594/img.gif">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritanjit&theme=radical&hide_border=true" width="49%" /><br/><br/>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
