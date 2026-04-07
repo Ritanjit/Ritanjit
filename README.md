@@ -27,7 +27,7 @@
 
 <!-- coding image gif -->
 <div align="center">
-<img align="center" alt="Coding" width="400" src="https://github.com/Ritanjit/Ritanjit/blob/c178a7673c499651709c9a58a816273abc4f5594/img.gif">
+<img align="center" alt="Coding" width="50%" src="https://github.com/Ritanjit/Ritanjit/blob/c178a7673c499651709c9a58a816273abc4f5594/img.gif">
 </div>
 
 
