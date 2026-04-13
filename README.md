@@ -86,7 +86,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,express,react,nextjs,angular,tailwind,flask,c,cpp,py,java,php,opencv,tensorflow,pytorch,linux&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,express,react,nextjs,angular,tailwind,flask,mongodb,c,cpp,py,java,php,opencv,tensorflow,pytorch,linux&perline=10" />
   </a>
 </p>
 
